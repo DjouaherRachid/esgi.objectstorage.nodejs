@@ -2,6 +2,6 @@ services:
   - type: web
     name: node
     runtime: docker
-      region: eur
+      region: frankfurt
       branch: main
       plan: standard 
