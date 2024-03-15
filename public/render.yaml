@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: node
+    runtime: docker
+      region: eur
+      branch: main
+      plan: standard 
